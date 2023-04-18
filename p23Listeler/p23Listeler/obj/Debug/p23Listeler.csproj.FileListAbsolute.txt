@@ -1,0 +1,11 @@
+C:\Users\mberk\source\repos\p23Listeler\p23Listeler\bin\Debug\p23Listeler.exe.config
+C:\Users\mberk\source\repos\p23Listeler\p23Listeler\bin\Debug\p23Listeler.exe
+C:\Users\mberk\source\repos\p23Listeler\p23Listeler\bin\Debug\p23Listeler.pdb
+C:\Users\mberk\source\repos\p23Listeler\p23Listeler\obj\Debug\p23Listeler.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\p23Listeler\p23Listeler\obj\Debug\p23Listeler.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\p23Listeler\p23Listeler\obj\Debug\p23Listeler.Form1.resources
+C:\Users\mberk\source\repos\p23Listeler\p23Listeler\obj\Debug\p23Listeler.Properties.Resources.resources
+C:\Users\mberk\source\repos\p23Listeler\p23Listeler\obj\Debug\p23Listeler.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\p23Listeler\p23Listeler\obj\Debug\p23Listeler.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\p23Listeler\p23Listeler\obj\Debug\p23Listeler.exe
+C:\Users\mberk\source\repos\p23Listeler\p23Listeler\obj\Debug\p23Listeler.pdb
